@@ -7,7 +7,7 @@ export default function App() {
         <Image
           width={300}
           alt="Add task button"
-          src="https://nextui-docs-v2.vercel.app/images/hero-card-complete.jpeg"
+          src=""
         />
       </Button>
     );
