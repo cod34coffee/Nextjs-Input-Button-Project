@@ -1,3 +1,7 @@
+//If you cloned this template from GitHub, make sure to install React in your project. //
+//To learn how to install React to an existing project, go here: https://react.dev/learn/add-react-to-an-existing-project
+
+
 "use client";
 
 import TaskCard from "./TaskCard";
